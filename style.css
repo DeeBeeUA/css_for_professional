@@ -1,3 +1,7 @@
+body {
+    font-family: sans-serif;
+}
+
 .nav {
     margin-top: 10px;
     list-style: none;
@@ -35,7 +39,7 @@ a:hover {
 }
 
 .footer .a {
-    color: inherit;
+    color: initial;
     text-decoration: underline;
 }
 
